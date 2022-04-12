@@ -1,0 +1,7 @@
+database:
+  username: postgres
+  password: password
+  port: 5434
+  host: host.docker.internal
+  database_name: postgres
+application_port: 8080
